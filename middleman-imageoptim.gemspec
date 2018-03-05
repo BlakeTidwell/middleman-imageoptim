@@ -17,7 +17,6 @@ Gem::Specification.new do |gem|
   gem.require_paths = ['lib']
 
   gem.add_dependency 'middleman-core', ['>= 3.1']
-  gem.add_dependency 'middleman-cli'
   gem.add_dependency 'image_optim', '~> 0.25.0'
   gem.add_dependency 'image_optim_pack', '~> 0.2.1'
 
